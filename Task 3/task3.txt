@@ -1,0 +1,8 @@
+Question:
+A pixel in a grayscale image has a value of 180. If the threshold for binary thresholding is set to 
+150, what is the new pixel value after applying binary thresholding? (Assume output values are 0 
+for pixels below the threshold and 255 for pixels above the threshold.)
+
+Answer:
+Since the pixel value (180) is greater than the threshold (150), the new pixel value after applying binary thresholding is:
+255
